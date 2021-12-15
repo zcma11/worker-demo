@@ -1,24 +1,12 @@
 # worker-demo
 
-## Project setup
 ```
-yarn install
-```
+  启动服务器
+  cd server
+  node index.js
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+  根目录
+  yarn build
 
-### Compiles and minifies for production
+  yarn serve
 ```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
